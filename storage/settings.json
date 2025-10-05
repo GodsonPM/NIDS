@@ -1,0 +1,9 @@
+{
+    "db_path": "storage/logs.db",
+    "model_path": "models/rf_model.pkl",
+    "api_host": "127.0.0.1",
+    "api_port": 5000,
+    "sensitivity": 0.7,
+    "role": "Admin",
+    "theme": "Dark"
+}
